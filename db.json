@@ -1,10 +1,60 @@
 {
   "notes": [
-    { "id": 1, "content": "custom-hooks are awesome!" },
-    { "id": 2, "content": "best feature ever <3" }
+    {
+      "id": "1",
+      "content": "custom-hooks are awesome!"
+    },
+    {
+      "id": "2",
+      "content": "best feature ever <3"
+    },
+    {
+      "id": "06ab",
+      "content": "Hello"
+    },
+    {
+      "id": "edd4",
+      "content": "Toshiki"
+    },
+    {
+      "id": "99d0",
+      "content": "1233"
+    },
+    {
+      "id": "8067",
+      "content": "222"
+    }
   ],
   "persons": [
-    { "id": 1, "name": "mluukkai", "number": "040-5483923" },
-    { "id": 2, "name": "hellas", "number": "012-123123" }
+    {
+      "id": "1",
+      "name": "mluukkai",
+      "number": "040-5483923"
+    },
+    {
+      "id": "2",
+      "name": "hellas",
+      "number": "012-123123"
+    },
+    {
+      "id": "c2ba",
+      "name": "John",
+      "number": "12345"
+    },
+    {
+      "id": "1c41",
+      "name": "John",
+      "number": "12345"
+    },
+    {
+      "id": "c5e1",
+      "name": "john",
+      "number": "11223"
+    },
+    {
+      "id": "a44d",
+      "name": "Duke",
+      "number": "Duke"
+    }
   ]
 }
